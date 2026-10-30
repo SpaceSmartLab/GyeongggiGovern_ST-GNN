@@ -1,0 +1,22 @@
+{
+  "core": {
+    "identical_input_scaler_graph_dates_and_origins": true,
+    "shared_60min_target_identical": true,
+    "windows": {
+      "train": 841,
+      "validation": 121,
+      "test": 121
+    }
+  },
+  "extended": {
+    "identical_input_scaler_graph_dates_and_origins": true,
+    "shared_60min_target_identical": true,
+    "windows": {
+      "train": 217,
+      "validation": 25,
+      "test": 49
+    }
+  },
+  "status": "PASS",
+  "long_term_files_unchanged": true
+}

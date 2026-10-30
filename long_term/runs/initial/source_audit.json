@@ -1,0 +1,162 @@
+{
+  "files": [
+    {
+      "file": "rawdata\\1차 수집 데이터\\남측_31번센서(21221269)_2026-08-18.csv",
+      "sha256": "f84b5329c22fa24fcfea876188082191fb6228d00ac5dcdff4829077b24ed0df",
+      "rows": 2620,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\1차 수집 데이터\\남측_37번센서(21221256)_2026-08-18.csv",
+      "sha256": "c99abfdb7726083373f2b2516b98568478ea1eb6696dd007fdc6ef26c4f89bcb",
+      "rows": 2620,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\1차 수집 데이터\\남측_41번센서(21221267)_2026-08-18.csv",
+      "sha256": "cfb69f8b8d753746f5b100d117649b102931dcfc303d68c436f11ed16376d8a5",
+      "rows": 2619,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\1차 수집 데이터\\남측_4번센서(20896478)_2026-08-18.csv",
+      "sha256": "46d2dc3b22ef051891ac3736684718e65a3dd189554e6cb7fe511820e5533b7e",
+      "rows": 2617,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\1차 수집 데이터\\남측_5번센서(20896479)_2026-08-18.csv",
+      "sha256": "50bfb3dd92874cd240e35b63650f4c40bf7a604dbed3358b9d771981a7b41061",
+      "rows": 2620,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\1차 수집 데이터\\남측_7번센서(20896481)_2026-08-18.csv",
+      "sha256": "3804c83c18547315b96b9f5f8e82ede0e9e246f72fc7393be245f9b750bb82ab",
+      "rows": 2618,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\1차 수집 데이터\\북측_1번센서(20846624)_2026-08-18.csv",
+      "sha256": "1f4e4d84f5b738db884358f7a448dc403add8904ebe0ff00dabd2ce9c1e51d4e",
+      "rows": 2617,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\1차 수집 데이터\\북측_3번센서(20867860)_2026-08-18.csv",
+      "sha256": "a06399e52a2f2839ce682a66d1ceb3459dc4707192b578ae2eaa0a989c22a016",
+      "rows": 2617,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\1차 수집 데이터\\북측_5번센서(20846631)_2026-08-18.csv",
+      "sha256": "d86477a084a0ef5cc005c7486592356468b01901f87da95224955e4efd967ab9",
+      "rows": 2616,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\남측_11번센서(21864661)_2026-09-02_2026-09-21.csv",
+      "sha256": "c6a8aa0834191e2689849cbb7ee2d46418bf25fa6b8e8be546f3d2670b08e326",
+      "rows": 2742,
+      "excluded": 1
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\남측_18번센서(20867863)_2026-08-31_2026-09-21.csv",
+      "sha256": "4958504f2a28e87d689a2cd6423fc2ee107c158d2d82004e746d5f369c318f5f",
+      "rows": 3001,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\남측_31번센서(21221269)_2026-07-31_2026-09-21.csv",
+      "sha256": "de26f5a284d63bb2fb3bda85c836ee20ec65aed5b400ed7f279f06e42ae8b0b8",
+      "rows": 7514,
+      "excluded": 3
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\남측_37번센서(21221256)_2026-07-31_2026-09-21.csv",
+      "sha256": "3b18991b181764ede5e9cb698f6c2da4e5dac211bcd760c6c768dc0ca8d6d1d0",
+      "rows": 7511,
+      "excluded": 1
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\남측_41번센서(21221267)_2026-07-31_2026-09-21.csv",
+      "sha256": "63c086f6b58a1c3917f638785c5c4b0f4a9f0285ef1e10fbcc23d31d56b9732f",
+      "rows": 7513,
+      "excluded": 2
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\남측_4번센서(20896478)_2026-07-31_2026-09-21.csv",
+      "sha256": "5606951e8496bc364d5532c9621bb15c24c990d46de6459046e811a2c64b1d34",
+      "rows": 7515,
+      "excluded": 4
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\남측_5번센서(20896479)_2026-07-31_2026-09-21.csv",
+      "sha256": "bbe89b8045e1a2eeb6fc0fa528b4863adf8ec7b470cdb676c20a5b0df8bb0a13",
+      "rows": 7512,
+      "excluded": 2
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\남측_7번센서(20896481)_2026-07-31_2026-08-18.csv",
+      "sha256": "aa4df33d15b246b816512b3258017f7a6133ff6560f00d432070d087f2fb8738",
+      "rows": 2618,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\북측_15번센서(20846620)2026-08-31_2026-09-30.csv",
+      "sha256": "042b2012e33f2725b84e87056112808606d14137d41491996a613089e0a912fa",
+      "rows": 4297,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\북측_1번센서(20846624)_2026-07-31_2026-09-21.csv",
+      "sha256": "d8da00294a168d56a3c54851cb66213c305b14989091d006e263c3c57189a849",
+      "rows": 7472,
+      "excluded": 1
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\북측_25번센서(20846621)_2026-08-31_2026-09-30.csv",
+      "sha256": "eee7591b5a2163fa585b799618cf3577e395eb1bc2fac21ae8460f90a1398dd1",
+      "rows": 4297,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\북측_2번센서(20867861)_2026-08-31_2026-09-31.csv",
+      "sha256": "824475e6178704e1828586b5f2bcfad05defd7286aa61047c3d3a71b48eee6e7",
+      "rows": 4297,
+      "excluded": 0
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\북측_3번센서(20867860)_2026-07-31_2026-09-21.csv",
+      "sha256": "a328060d848b07135fc053f88a195b9bac8d364df848c8c14c4bf6a9e08ac24c",
+      "rows": 7472,
+      "excluded": 1
+    },
+    {
+      "file": "rawdata\\2차 수집 데이터_v2\\북측_5번센서(20846631)_2026-07-31_2026-09-21.csv",
+      "sha256": "41331544b591613b3eb11fed70d7370b3d078f23973feb7579f47c6bdf26309c",
+      "rows": 7472,
+      "excluded": 1
+    }
+  ],
+  "duplicates_removed": 23456,
+  "unique_valid_rows": 81325,
+  "timezone_assumption": "Asia/Seoul; source timestamps have no timezone",
+  "excluded_nodes": {
+    "S07": "retired before later experiment",
+    "S18": "position unverified"
+  },
+  "software": {
+    "python": "3.9.10 (tags/v3.9.10:f2f3f53, Jan 17 2022, 15:14:21) [MSC v.1929 64 bit (AMD64)]",
+    "numpy": "2.0.2",
+    "pandas": "2.2.3",
+    "torch": "2.8.0+cpu"
+  },
+  "seeds": [
+    17,
+    29,
+    43
+  ],
+  "max_epochs": 30,
+  "patience": 7
+}

@@ -1,0 +1,20 @@
+{
+  "source_path": "C:/Users/w0102/OneDrive/바탕 화면/경기도청 데이터",
+  "frequency_minutes": 10,
+  "history_steps": 18,
+  "horizon_steps": [1, 3, 6],
+  "validation_start": "2026-09-07 00:00:00",
+  "test_start": "2026-09-14 00:00:00",
+  "analysis_end": "2026-09-21 13:00:00",
+  "forward_fill_limit": 2,
+  "graph_k": 3,
+  "hidden_channels": 24,
+  "max_epochs": 60,
+  "patience": 10,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "seeds": [17, 29, 43],
+  "torch_threads": 2,
+  "ridge_alphas": [0.1, 1.0, 10.0, 100.0]
+}

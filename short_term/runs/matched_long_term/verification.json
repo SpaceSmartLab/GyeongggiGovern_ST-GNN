@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "source_hashes": 23,
+  "test_prediction_files_recomputed": 18,
+  "checkpoint_inference_cases": 6,
+  "checks": [
+    "split containment",
+    "validation-only seed selection",
+    "all horizon MAE/RMSE from saved arrays",
+    "checkpoint reload equals saved operational forecast",
+    "42 plots exist",
+    "raw source hashes unchanged"
+  ]
+}

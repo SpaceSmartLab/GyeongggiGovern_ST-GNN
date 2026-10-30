@@ -1,0 +1,83 @@
+[
+  {
+    "name": "STGNN",
+    "seed": 17,
+    "best_epoch": 4,
+    "epochs_run": 11,
+    "validation_mae_c": 0.07147485017776489,
+    "parameters": 9699,
+    "elapsed_seconds": 3.851095199584961
+  },
+  {
+    "name": "STGNN",
+    "seed": 29,
+    "best_epoch": 2,
+    "epochs_run": 9,
+    "validation_mae_c": 0.07431646436452866,
+    "parameters": 9699,
+    "elapsed_seconds": 3.1010618209838867
+  },
+  {
+    "name": "STGNN",
+    "seed": 43,
+    "best_epoch": 4,
+    "epochs_run": 11,
+    "validation_mae_c": 0.07446134090423584,
+    "parameters": 9699,
+    "elapsed_seconds": 3.770656108856201
+  },
+  {
+    "name": "GRU",
+    "seed": 17,
+    "best_epoch": 17,
+    "epochs_run": 24,
+    "validation_mae_c": 0.07335178554058075,
+    "parameters": 17592,
+    "elapsed_seconds": 2.710111618041992
+  },
+  {
+    "name": "GRU",
+    "seed": 29,
+    "best_epoch": 5,
+    "epochs_run": 12,
+    "validation_mae_c": 0.07384590804576874,
+    "parameters": 17592,
+    "elapsed_seconds": 1.351367712020874
+  },
+  {
+    "name": "GRU",
+    "seed": 43,
+    "best_epoch": 3,
+    "epochs_run": 10,
+    "validation_mae_c": 0.07341989129781723,
+    "parameters": 17592,
+    "elapsed_seconds": 1.1278340816497803
+  },
+  {
+    "name": "LSTM",
+    "seed": 17,
+    "best_epoch": 2,
+    "epochs_run": 9,
+    "validation_mae_c": 0.07581982761621475,
+    "parameters": 23064,
+    "elapsed_seconds": 0.5232992172241211
+  },
+  {
+    "name": "LSTM",
+    "seed": 29,
+    "best_epoch": 3,
+    "epochs_run": 10,
+    "validation_mae_c": 0.07496591657400131,
+    "parameters": 23064,
+    "elapsed_seconds": 0.5839436054229736
+  },
+  {
+    "name": "LSTM",
+    "seed": 43,
+    "best_epoch": 3,
+    "epochs_run": 10,
+    "validation_mae_c": 0.07394614815711975,
+    "parameters": 23064,
+    "elapsed_seconds": 0.5703780651092529
+  }
+]
